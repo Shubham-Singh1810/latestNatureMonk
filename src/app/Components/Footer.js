@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="footer-inner d-flex  gap-4">
           <div className="footer-1 footer-item">
             <img
-              src="/assets/logo.png"
+              src="/assets/brandLogoFav.png"
               alt="logo"
               className="img-fluid "
               style={{ height: "80px", borderRadius: "4px" }}

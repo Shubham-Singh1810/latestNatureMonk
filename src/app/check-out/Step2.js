@@ -608,10 +608,11 @@ const Step2 = ({
       alternatePhone: "8743562334",
     };
 
-    if (addressForm.phone.length !== 10) {
-      toast.error("Please enter a valid 10-digit phone number");
-      return;
-    }
+    // if (addressForm.phone.length != 10) {
+    //   console.log(addressForm.phone.length)
+    //   toast.error("Please enter a valid 10-digit phone number");
+    //   return;
+    // }
 
     try {
       if (payload._id) {
@@ -642,10 +643,11 @@ const Step2 = ({
   };
 
   const handleNext = () => {
-    if (addressForm.phone.length !== 10) {
-      toast.error("Please enter a valid 10-digit phone number");
-      return;
-    }
+    // if (addressForm.phone.length != 10) {
+    //   console.log(addressForm.phone.length)
+    //   toast.error("Please enter a valid 10-digit phone number");
+    //   return;
+    // }
 
     next();
   };
@@ -681,10 +683,11 @@ const Step2 = ({
       alternatePhone: "9832120935",
     };
 
-    if (addressForm.phone.length !== 10) {
-      toast.error("Please enter a valid 10-digit phone number");
-      return;
-    }
+    // if (addressForm.phone.length != 10) {
+    //   console.log(addressForm.phone.length)
+    //   toast.error("Please enter a valid 10-digit phone number");
+    //   return;
+    // }
 
     const res = await addressCreate(payload);
     if (res?.statusCode == "200") {

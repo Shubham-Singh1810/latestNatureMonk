@@ -154,15 +154,16 @@ const CartSidebar = () => {
     );
 
   const handleProceed = () => {
-    if (policyData && totalSubtotal >= policyData.minimumFreeOrderAmount) {
-      setDeliveryCharge(0);
-      router.push("/check-out");
-    } else {
-      setDeliveryCharge(policyData.deliveryCharge);
-        localStorage.setItem("deliveryCharge", deliveryCharge.toString());
+    // if (policyData && totalSubtotal >= policyData.minimumFreeOrderAmount) {
+    //   setDeliveryCharge(0);
+    //   router.push("/check-out");
+    // } else {
+    //   setDeliveryCharge(policyData.deliveryCharge);
+    //     localStorage.setItem("deliveryCharge", deliveryCharge.toString());
       
-      router.push("/check-out");
-    }
+    //   router.push("/check-out");
+    // }
+     router.push("/check-out");
   };
 
 //   useEffect(() => {
