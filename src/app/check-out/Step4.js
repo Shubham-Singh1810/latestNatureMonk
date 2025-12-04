@@ -220,7 +220,7 @@ const totalProducts =
       key: "rzp_test_fT349CvRXH2mv0",
       amount: amount * 100, 
       currency: "INR",
-       name: "Gustosa Foods",
+       name: "Nature Monk",
       description: "Purchase Transaction",
       image: "/assets/logo.png",
       

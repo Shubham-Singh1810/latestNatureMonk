@@ -56,7 +56,8 @@ const page = () => {
             <img src="/assets/location.png"></img>
             <div>
               <h5>ADDRESS</h5>
-              <p>Station Club Road, Near Navratan Durga Asthan, NH 31, Purnia - 854301 (BR)</p>
+              <p>191, shiv nagar, tarsa road, kanhan 441401
+naturemonk01@gmail.com</p>
              
             </div>
           </div>
@@ -66,7 +67,7 @@ const page = () => {
             <div>
               <h5>MAIL US</h5>
             <p style={{ wordBreak: "break-word" }}>
- sumit@gustosafoods.com
+ naturemonk01@gmail.com
 </p>
 
 
@@ -77,8 +78,8 @@ const page = () => {
             <img src="assets/call.png"></img>
             <div>
               <h5>CALL US</h5>
-              <p>+91-81000 03505</p>
-              <p>+91-92056 00140,41,42</p>
+              <p>+91 8208334548</p>
+              
             </div>
           </div>
         </div>
@@ -86,12 +87,13 @@ const page = () => {
         <div className="contact-main d-flex justify-content-center">
           <div className="contact-map">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d28127.959504969855!2d87.47897828361309!3d25.78244898364153!3m2!1i1024!2i768!4f13.1!2m1!1sStation%20Club%20Road%2C%20Near%20%20Navratan%20Durga%20Asthan%2C%20NH%2031%2C%20Purnia%20-%20854301%20(BR!5e0!3m2!1sen!2sus!4v1747892117458!5m2!1sen!2sus"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3365.56330996714!2d79.24041947471979!3d21.229131280867506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd4cf2c00bab6a7%3A0x6f55f1a474b8f4ea!2sTarsa%20Rd%2C%20Maharashtra%20441401!5e1!3m2!1sen!2sin!4v1764846492616!5m2!1sen!2sin"
               className="iframe"
               allowFullScreen=""
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
             ></iframe>
+           
           </div>
           <div className="contact-form">
             <h2>Get In Touch</h2>

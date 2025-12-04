@@ -29,7 +29,7 @@ const page = () => {
         <div className='policy-head d-flex align-items-center'>
           <div>
             <h1>Cookie Policy</h1>
-            <p>At Gustosa, we believe in transparency and clarity.
+            <p>At Nature Monk, we believe in transparency and clarity.
               This policy is designed to inform you about how we operate and what you can expect from us regarding the topic covered below.</p>
           </div>
           <img src='https://t3.ftcdn.net/jpg/13/90/31/86/360_F_1390318667_bjVdMVxUeYvCARqYuc7datD4nlhTJ86l.jpg' alt="cookie policy" />

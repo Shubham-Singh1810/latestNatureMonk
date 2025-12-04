@@ -252,7 +252,7 @@ const page = () => {
           <div>
             <h1>Shipping Policy</h1>
             <p>
-              At Gustosa, we believe in transparency and clarity.
+              At Nature Monk, we believe in transparency and clarity.
               This policy is designed to inform you about how we operate and what you can expect from us regarding the topic covered below.
             </p>
           </div>
